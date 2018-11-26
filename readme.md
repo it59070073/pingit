@@ -6,4 +6,6 @@ Commit file
 
 `git commit -m "message to commit"`
 
+Push to github
 
+`git push` or `git push origin master`
