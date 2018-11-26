@@ -2,6 +2,10 @@ To init
 
 `git init`
 
+Add github to git
+
+`git remote add origin <github-url>`
+
 Add to stage (ready to commit)
 
 `git add .`
