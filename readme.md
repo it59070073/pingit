@@ -1,3 +1,7 @@
+To init
+
+`git init`
+
 Add to stage (ready to commit)
 
 `git add .`
