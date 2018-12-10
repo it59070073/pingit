@@ -25,3 +25,8 @@ Config git
 `git config --global user.name "<username>"`
 
 `git config --global user.email "<email>"`
+
+
+simple login
+
+http://hackpundit.com/simple-login-android-app/
