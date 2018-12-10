@@ -27,6 +27,9 @@ Config git
 `git config --global user.email "<email>"`
 
 
+
 simple login
 
 http://hackpundit.com/simple-login-android-app/
+
+https://www.tutorialspoint.com/android/android_login_screen.htm
