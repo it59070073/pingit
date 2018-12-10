@@ -17,3 +17,11 @@ Commit file
 Push to github
 
 `git push` or `git push origin master`
+
+
+
+Config git
+
+`git config --global user.name "<username>"`
+
+`git config --global user.email "<email>"`
